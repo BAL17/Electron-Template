@@ -1,8 +1,8 @@
-# Electron Forge, React, TypeScript, Tailwind, Vite - Starter Template
+# React, TypeScript, Tailwind, Vite - Starter Template
 
 ## Description ##
 My simple starter templates using:
-- [Electron Forge + React + TypeScript + Vite]((https://www.electronforge.io/guides/framework-integration/react-with-typescript))
+- [React + TypeScript + Vite](https://www.npmjs.com/package/create-electron-vite)
 - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
 
 
